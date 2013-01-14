@@ -1,3 +1,5 @@
+" http://stackoverflow.com/questions/164847/what-is-in-your-vimrc
+
 " Necesary  for lots of cool vim things
 set nocompatible
 
